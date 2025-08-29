@@ -14,10 +14,9 @@ I love crafting **intuitive and elegant user interfaces**, ensuring smooth user 
 🔹 Currently diving deeper into **Angular & AI/ML basics** to blend intelligence into modern applications.  
 🔹 Excited about collaboration, innovation, and transforming ideas into reality.  
 
-<img align="right" alt="Coding GIF" src="https://github.com/Lochan09/Lochan09/blob/main/code.gif" width="420" height="260" />
+<img align="center" alt="Coding GIF" src="https://github.com/Lochan09/Lochan09/blob/main/code.gif" width="420" height="260" />
 
 ---
-
 ### 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,angular,figma,nodejs,mongodb,git,aws,python" />
@@ -40,7 +39,7 @@ I love crafting **intuitive and elegant user interfaces**, ensuring smooth user 
   <a href="https://www.instagram.com/lochan_s_gowda/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:slochansgowdas@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
 </p>
