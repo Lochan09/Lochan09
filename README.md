@@ -49,3 +49,6 @@ I am an open-source contributor and maintainer, leveraging community-driven coll
  <br/>
 <a><img src="https://skillicons.dev/icons?i==redux,figma,css" />
 <a/>
+<br/>
+<a><img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+<a/>
