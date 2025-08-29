@@ -36,7 +36,7 @@ I'm Lochan S, a passionate Frontend Developer from India with experience as a UI
 I am an open-source contributor and maintainer, leveraging community-driven collaboration to continuously learn, share knowledge, and build impactful solutions.
 -->
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Lochan09/Lochan09/blob/main/code.gif" width="500" height="320" />
   
 - 💬 ask me about anything, I am happy to help :)
 
