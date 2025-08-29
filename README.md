@@ -42,13 +42,10 @@ I am an open-source contributor and maintainer, leveraging community-driven coll
 
 **Languages and tools:**  
 
-<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js" />
+<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,angular" />
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=git,react,aws" />
 <a/>
  <br/>
-<a><img src="https://skillicons.dev/icons?i==redux,figma,css" />
-<a/>
-<br/>
-<a><img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+<a><img src="https://skillicons.dev/icons?i=js,html,css" />
 <a/>
