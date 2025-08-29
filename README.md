@@ -44,8 +44,8 @@ I am an open-source contributor and maintainer, leveraging community-driven coll
 
 <a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js" />
 <a/> <br/>
-<a><img src="https://skillicons.dev/icons?i=git,react,huggingface" />
+<a><img src="https://skillicons.dev/icons?i=git,react,aws" />
 <a/>
  <br/>
-<a><img src="https://skillicons.dev/icons?i==angular,figma,css" />
+<a><img src="https://skillicons.dev/icons?i==redux,figma,css" />
 <a/>
