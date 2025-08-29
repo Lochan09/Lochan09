@@ -1,51 +1,50 @@
-### Lochan S - Software Development Engineer
+<h1 align="center">Hi 👋, I'm Lochan S</h1>
+<h3 align="center">🚀 Software Development Engineer | Frontend Developer | UI/UX Enthusiast</h3>
 
-<!--
-**lochan s/lochan s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1B98E0&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;UI+Designer+Intern+at+Siemens🎨;Building+AI%2FML+foundations+🤖;Transforming+ideas+into+seamless+experiences+✨" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Front end development
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<a href="https://www.instagram.com/lochan_s_gowda/">
-  <img align="left" alt="Lochan's instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+### 👨‍💻 About Me
+I’m **Lochan S**, a passionate **Frontend Developer** from India with hands-on experience as a **UI Designer Intern at Siemens**.  
+I love crafting **intuitive and elegant user interfaces**, ensuring smooth user experiences with clean architecture and high-quality code.  
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Lochan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/malikdinar">
-  <img align="left" alt="Malik | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> 
-<a href="https://www.linkedin.com/in/lochan-s-17905b2b0/">
-  <img align="left" alt="Lochan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>  -->
+🔹 Currently diving deeper into **Angular & AI/ML basics** to blend intelligence into modern applications.  
+🔹 Excited about collaboration, innovation, and transforming ideas into reality.  
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=malikdinar.malikdinar) -->
-I'm Lochan S, a passionate Frontend Developer from India with experience as a UI Designer Intern at Siemens. I enjoy transforming ideas into reality through intuitive and elegant user interfaces. I focus on delivering seamless user experiences, maintaining clean architecture, and writing high-quality code. Alongside frontend development, I am also building a foundation in the basics of AI/ML, exploring how intelligent solutions can enhance modern applications.
+<img align="right" alt="Coding GIF" src="https://github.com/Lochan09/Lochan09/blob/main/code.gif" width="420" height="260" />
 
-<!--
-I am an open-source contributor and maintainer, leveraging community-driven collaboration to continuously learn, share knowledge, and build impactful solutions.
--->
+---
 
-  <img align="right" alt="GIF" src="https://github.com/Lochan09/Lochan09/blob/main/code.gif" width="500" height="320" />
-  
-- 💬 ask me about anything, I am happy to help :)
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,angular,figma,nodejs,mongodb,git,aws,python" />
+</p>
 
-**Languages and tools:**  
+---
 
-<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,angular" />
-<a/> <br/>
-<a><img src="https://skillicons.dev/icons?i=git,react,aws" />
-<a/>
- <br/>
-<a><img src="https://skillicons.dev/icons?i=js,html,css" />
-<a/>
+### 🌟 Quick Facts
+- 🌱 Currently learning **Angular & AI/ML**
+- 💬 Ask me about **React, UI/UX, and clean code practices**
+- ⚡ Fun fact: I believe *good design is as important as good code* 🎨
+
+---
+
+### 📬 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/lochan-s-17905b2b0/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/lochan_s_gowda/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  </a>
+</p>
+
+---
+
+⭐️ *“Code is like art – the cleaner it is, the more beautiful it feels.”*  
