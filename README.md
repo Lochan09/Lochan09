@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lochan S</h1>
-<h3 align="center">🚀 Software Development Engineer | Frontend Developer | UI/UX Enthusiast</h3>
+<h3 align="center">🚀 Software Development Engineer | Full Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1B98E0&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;UI+Designer+Intern+at+Siemens🎨;Building+AI%2FML+foundations+🤖;Transforming+ideas+into+seamless+experiences+✨" />
