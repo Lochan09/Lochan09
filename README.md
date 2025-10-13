@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me
-I’m **Lochan S**, a passionate **Frontend Developer** from India with hands-on experience as a **UI Designer Intern at Siemens**.  
+I’m **Lochan S**, a passionate **Full Stack Developer** from India with hands-on experience as a **Junior Developer at Xceptionallearning** and **UI Designer Intern at Siemens**.  
 I love crafting **intuitive and elegant user interfaces**, ensuring smooth user experiences with clean architecture and high-quality code.  
 
-🔹 Currently diving deeper into **Angular & AI/ML basics** to blend intelligence into modern applications.  
+🔹 Currently diving deeper into **ReactJS, NodeJS, ExpressJS, Postgresql & Angular** to blend intelligence into modern applications.  
 🔹 Excited about collaboration, innovation, and transforming ideas into reality.  
 
 <img align="center" alt="Coding GIF" src="https://github.com/Lochan09/Lochan09/blob/main/code.gif" width="420" height="260" />
@@ -25,7 +25,7 @@ I love crafting **intuitive and elegant user interfaces**, ensuring smooth user 
 ---
 
 ### 🌟 Quick Facts
-- 🌱 Currently learning **Angular & AI/ML**
+- 🌱 Currently learning **ExpressJS, NodeJS & Postgresql**
 - 💬 Ask me about **React, UI/UX, and clean code practices**
 - ⚡ Fun fact: I believe *good design is as important as good code* 🎨
 
