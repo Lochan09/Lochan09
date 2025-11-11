@@ -19,7 +19,7 @@ I love crafting **intuitive and elegant user interfaces**, ensuring smooth user 
 ---
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,angular,figma,nodejs,mongodb,git,aws,python,nextjs,postgresql,mantis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,angular,figma,nodejs,mongodb,git,aws,python,nextjs,postgresql,mantis,postman" />
 </p>
 
 ---
