@@ -28,7 +28,7 @@ My passion lies at the intersection of **engineering & creativity**—crafting s
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nextjs,nodejs,express,postgres,mongodb,python,aws,figma,Claude,git,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nextjs,nodejs,express,postgres,mongodb,python,aws,figma,git,postman&perline=10" />
 </p>
 
 ---
